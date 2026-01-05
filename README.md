@@ -17,12 +17,15 @@ A compact custom macropad designed for learning and experimentation in PCB desig
 ## Images
 
 **PCB Footprint**
+
 ![PCB Footprint](images/pcb_footprint.png)
 
 **PCB 3D View**
+
 ![PCB 3D](images/pcb_3d.png)
 
 **CAD Assembly**
+
 ![CAD Assembly](images/cad_assembly.png)
 
 ## Status
