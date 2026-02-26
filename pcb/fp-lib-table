@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "opl")(type "KiCad")(uri "/home/yabesh/macropad 67/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "MX")(type "KiCad")(uri "/home/yabesh/macropad 67/marbastlib-main/footprints/marbastlib-mx.pretty")(options "")(descr ""))
+)
